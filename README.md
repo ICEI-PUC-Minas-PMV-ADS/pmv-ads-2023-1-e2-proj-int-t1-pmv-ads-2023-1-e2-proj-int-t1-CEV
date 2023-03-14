@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# CONTROLE DE ESTOQUE E VENDAS
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO: DESENVOLVIMENTO DE UMA APLICAÇÃO INTERATIVA`
 
-`SEMESTRE`
+`2º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Densolvimento de uma aplicação ASP .NET MVC com linguagem C# para Controle Interno de Vendas e Estoque.
+
+A aplicação não tem o objetivo de assumir o contábil, mas apenas organizar e otimizar de forma simples o estoque e venda.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Leandro Henrique de Oliveira Reis
+* Andréa Medeiros Aragão da Silveira
+* Antony Leme Novais Ferreira
+* Douglas Garcia da Silveira
+* Leandro Henrique de Oliveira Reis
+* Marcos Paulo Assiz Maciel
+* Silmara Barbosa
 
 ## Orientador
 
-* Nome completo do professor 1
+* Rosilane Ribeiro da Mota
 
 ## Instruções de utilização
 
