@@ -6,7 +6,7 @@
 
 `2º SEMESTRE`
 
-Densolvimento de uma aplicação ASP .NET MVC com linguagem C# para Controle Interno de Vendas e Estoque.
+Densenvolvimento de uma aplicação ASP .NET MVC com linguagem C# para Controle Interno de Vendas e Estoque.
 
 A aplicação não tem o objetivo de assumir o contábil, mas apenas organizar e otimizar de forma simples o estoque e venda.
 
