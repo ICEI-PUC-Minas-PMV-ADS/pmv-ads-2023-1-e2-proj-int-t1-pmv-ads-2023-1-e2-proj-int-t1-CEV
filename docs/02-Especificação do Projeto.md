@@ -22,6 +22,7 @@ Vitor Pereira, 32 anos, proprietário de uma distribuidora de bebidas em Betim. 
 - Atender as demadnas dos clientesl
 
 **Frustrações**
+
 - Não é um bom administrador,
 - Problemas com estoque furado;
 - Compras desnecessárias;
@@ -110,13 +111,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![UseCase Diagram0](https://user-images.githubusercontent.com/106809153/226177135-7e9222ae-17b8-4642-8f60-035d766c7a5f.png)
