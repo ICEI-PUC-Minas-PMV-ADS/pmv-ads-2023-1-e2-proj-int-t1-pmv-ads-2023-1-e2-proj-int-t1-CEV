@@ -6,6 +6,18 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de Classes
 
+O diagrama foi estruturado considerando a necessidade do cliente em otimizar seu sistema interno relacionado ao controle de estoque e venda de produtos (condições para gerir os processos logísticos e financeiros da empresa com agilidade e eficácia). Abaixo são explicitadas as relações entre as classes para execução do sistema:
+
+ - **Gestão**: será responsável por gerenciar o processo de criação, inclusão e exclusão de funcionários e produtos na aplicação. Além de ter acesso à geração de relatórios, também terá o controle de liberar o acesso desses documentos ao funcionário que julgar pertinente. 
+
+ - **Funcionário**: abrigará as informações básicas dos funcionários da empresa. Todos eles estarão subordinados apenas a um gestor que será responsável por manter o registro atualizado desses funcionários no sistema.
+
+ - **Estoque**: departamento responsável por registrar a chegada de produtos, bem como sua quantidade afim de auxiliar o departamento de vendas, evitando oferta de produto sem estoque. Também auxilia a gestão ao gerar relatórios de estoque.
+
+ - **Vendas**: responsável apenas pela venda dos produtos, poderá acessar o estoque para verificar se o produto ofertado se encontra em quantidade disponível para o cliente.
+
+ - **Relatório**: será possível gerar relatório de vendas e produtos, e outros que se fizerem necessários para acompanhar o desenvolvimento do negócio (quais produtos mais vendem e quais não tem saída satisfatória, por exemplo). Essa funcionalidade terá acesso controlado por senha.
+
 ![CEV - Diagrama Classes](https://user-images.githubusercontent.com/106809153/228092951-5630823f-059c-4476-beca-f64513645e85.png)
 
 ## Modelo ER (Projeto Conceitual)
