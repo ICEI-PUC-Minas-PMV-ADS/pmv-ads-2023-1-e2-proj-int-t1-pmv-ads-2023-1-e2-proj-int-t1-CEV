@@ -9,16 +9,23 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+O diagrama foi estruturado  afim de exibir o fluxo de interação do usuário com o sistema, facilitando assim a visão de como deve ser desenvolvido o programa. Abaixo são explicitadas as funções das telas.
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+- **Login**: tela inicial onde o gestor, vendedor e estoquista farão login.
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+- **Tela de usuários (funcionários)**: tela a qual o gestor terá a possibilidade de listar, editar, cadastrar e remover usuário.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+- **Tela de vendas (gestor)**: tela específica onde o gestor terá a possibilidade de gerar o relatório de vendas.
 
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+- **Tela de produtos**: tela a qual terá as opções de cadastrar, remover, editar e listar produto.
+
+- **Tela de vendas**: tela onde o gestor e o vendedor terão acesso afim de editar, cadastrar, remover e vizualizar venda.
+
+- **Tela de estoque**: tela onde será possível a listagem de estoque. 
+
+- **Tela de registro de mercadorias**: tela a qual terá as opções de gerar relatório de estoque e registrar entrada de mercadoria.
+
+![diagrama de fluxos img](https://user-images.githubusercontent.com/115049867/229373034-cebc791a-f641-4e05-81ee-7d5552e43343.jpg)
 
 ## Wireframes
 
