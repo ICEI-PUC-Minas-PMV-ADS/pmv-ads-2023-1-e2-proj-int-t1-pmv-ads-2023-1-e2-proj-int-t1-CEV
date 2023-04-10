@@ -39,15 +39,42 @@ O diagrama foi estruturado a fim de exibir o fluxo de interação do usuário co
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Abaixo são detalhadas como devem ficar as telas.
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+![tela w1](https://user-images.githubusercontent.com/115049867/230815632-ef200902-fa66-4c4e-924e-8085b217a5d0.jpg)
+
+![tela w 2](https://user-images.githubusercontent.com/115049867/230815681-3b8324e7-80cd-42ea-bfd2-bc6d3a834d69.jpg)
+
+![tela w 3](https://user-images.githubusercontent.com/115049867/230815720-d15ffbb4-dc56-4a45-8d72-e46354219a8c.jpg)
+
+![tela w 4](https://user-images.githubusercontent.com/115049867/230815747-a909187f-2f01-4283-94bb-c11c9b0f2b1b.jpg)
+
+![tela w 5](https://user-images.githubusercontent.com/115049867/230815778-10a0ab0e-9ca0-4212-bb99-4ba06d5d34ea.jpg)
+
+![tela w 6](https://user-images.githubusercontent.com/115049867/230815803-1dd600a0-ebce-4bb6-ba23-ba1fd42a0d3b.jpg)
+
+![tela w 7](https://user-images.githubusercontent.com/115049867/230815825-01d62926-d476-4626-8690-f919804325da.jpg)
+
+![tela w 8](https://user-images.githubusercontent.com/115049867/230815854-526ef49c-4688-4609-aff0-b5cb863056f6.jpg)
+
+![tela w 9](https://user-images.githubusercontent.com/115049867/230815882-5cc13761-f75c-484c-8b73-1e80df14b0ac.jpg)
+
+![tela w 10](https://user-images.githubusercontent.com/115049867/230815907-4ff93e9d-baba-45f1-89e1-29f4aa164deb.jpg)
+
+![tela w 11](https://user-images.githubusercontent.com/115049867/230815925-4bffc5dd-e09f-4223-b696-53b5d1f0e288.jpg)
+
+![tela w 12](https://user-images.githubusercontent.com/115049867/230815940-08770019-f36c-4079-b67c-6a5ae2638018.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
