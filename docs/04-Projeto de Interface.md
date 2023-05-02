@@ -47,13 +47,7 @@ Abaixo são detalhadas como devem ficar as telas.
 
 ![tela w 3](https://user-images.githubusercontent.com/115049867/230815720-d15ffbb4-dc56-4a45-8d72-e46354219a8c.jpg)
 
-![tela w 4](https://user-images.githubusercontent.com/115049867/230815747-a909187f-2f01-4283-94bb-c11c9b0f2b1b.jpg)
-
 ![tela w 5](https://user-images.githubusercontent.com/115049867/230815778-10a0ab0e-9ca0-4212-bb99-4ba06d5d34ea.jpg)
-
-![tela w 6](https://user-images.githubusercontent.com/115049867/230815803-1dd600a0-ebce-4bb6-ba23-ba1fd42a0d3b.jpg)
-
-![tela w 7](https://user-images.githubusercontent.com/115049867/230815825-01d62926-d476-4626-8690-f919804325da.jpg)
 
 ![tela w 8](https://user-images.githubusercontent.com/115049867/230815854-526ef49c-4688-4609-aff0-b5cb863056f6.jpg)
 
@@ -63,7 +57,7 @@ Abaixo são detalhadas como devem ficar as telas.
 
 ![tela w 11](https://user-images.githubusercontent.com/115049867/230815925-4bffc5dd-e09f-4223-b696-53b5d1f0e288.jpg)
 
-![tela w 12](https://user-images.githubusercontent.com/115049867/230815940-08770019-f36c-4079-b67c-6a5ae2638018.jpg)
+
 
 
 
