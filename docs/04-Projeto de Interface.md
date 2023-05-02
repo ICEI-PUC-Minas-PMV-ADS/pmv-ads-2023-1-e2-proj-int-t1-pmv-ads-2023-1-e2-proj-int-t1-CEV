@@ -14,7 +14,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 - **Departamento**: Contém todos os departamentos existentes na empresa, sendo eles vendas, estoque e gestão.
 - **Relatório**: Contém os relatórios que poderão ser gerados pelo sistema de acordo com a permissão de cada usuário.
 
-![Diagrama Entidade e Relacionamento](https://user-images.githubusercontent.com/115120672/229379829-d502257f-ea7f-4e18-a479-cfa41888b99c.jpg)
+![DER](https://user-images.githubusercontent.com/115120672/235796736-513b400f-0c98-4f01-8874-780805287ad9.jpg)
+
 
 
 ## Diagrama de Fluxo
