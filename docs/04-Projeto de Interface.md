@@ -10,9 +10,10 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  O diagrama de entidade e relacionamento foi elaborado demonstrando as entidades e suas relações a fim de esclarecer para o usuário tudo o que será desenvolvido no código do programa.
 
-- **Funcionário**: Entidade que irá conter as informações dos funcionários como nome, matrícula e senha para acesso ao sistema;
-- **Departamento**: Contém todos os departamentos existentes na empresa, sendo eles vendas, estoque e gestão.
-- **Relatório**: Contém os relatórios que poderão ser gerados pelo sistema de acordo com a permissão de cada usuário.
+- **Usuário**: Entidade que irá conter as informações dos funcionários;
+- **Vendas**: Contém informações de vendas e dos responsáveis por cada venda realizada;
+- **Estoque**: Contém as informações de todos os produtos em estoque;
+- **Relatório**: Contém os relatórios que poderão ser gerados pelo sistema.
 
 ![DER](https://user-images.githubusercontent.com/115120672/235796736-513b400f-0c98-4f01-8874-780805287ad9.jpg)
 
