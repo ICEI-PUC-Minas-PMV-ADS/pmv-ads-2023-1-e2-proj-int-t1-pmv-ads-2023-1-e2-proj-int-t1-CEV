@@ -11,14 +11,19 @@
 |Critério de Êxito | - Produto criado com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-02 – Editar produto** 	|
-|	Requisito Associado 	| RF-00y - A aplicação deve apresentar a funcionalidade de editar os produtos. |
+|	Requisito Associado 	| RF-00Y - A aplicação deve apresentar a funcionalidade de editar os produtos. |
 | Objetivo do Teste 	| Verificar se consegue editar um produto. |
 | Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/products<br> - Clicar em "Editar" <br> - Preencher os campos obrigatórios (nome do produto, preço, salvar) |
 |Critério de Êxito | - Produto editado com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-03 – Remover produto** 	|
-|	Requisito Associado 	| RF-00z - A aplicação deve apresentar a funcionalidade de remover os produtos. |
+|	Requisito Associado 	| RF-00Z - A aplicação deve apresentar a funcionalidade de remover os produtos. |
 | Objetivo do Teste 	| Verificar se consegue remover um produto. |
 | Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/products<br> - Clicar em "Remover" <br> |
 |Critério de Êxito | - Produto removido com sucesso. |
- 
+|  	|  	|
+| **Caso de Teste** 	| **CT-04 – Cadastrar entrada** 	|
+|	Requisito Associado 	| RF-00A - A aplicação deve apresentar a funcionalidade de cadastrar entrada dos produtos. |
+| Objetivo do Teste 	| Verificar se consegue cadastrar a entrada de um produto. |
+| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/products<br> - Clicar em "cadastrar entrada" <br> - Preencher os campos obrigatórios (produto - selecione, quantidade - adicionar, ações - remover, Cadastrar Entradas)|
+|Critério de Êxito | - Entradas de estoque feitas com sucesso. |
