@@ -1,15 +1,50 @@
 # Plano de Testes de Usabilidade
 
-Os testes de usabilidade permitem avaliar a qualidade da interface com o usuário da aplicação interativa.
+Este documento descreve um plano de teste para realizar um teste de usabilidade durante o desenvolvimento da aplicação web Controle de Vendas e Estoque - CEV. Os objetivos do teste incluem estabelecer uma linha de base do desempenho do usuário, estabelecer e validar medidas de desempenho do usuário e identificar possíveis preocupações de design a serem abordadas para melhorar a eficiência, a produtividade e a satisfação do usuário final.
 
-Um plano de teste de usabilidade deverá conter: o detalhamento dos objetivos (em função dos requisitos levantados/implementados), dos critérios que serão utilizados para a seleção dos participantes, dos procedimentos a serem adotados pelos condutores de teste (por exemplo: os testes serão presenciais ou remotos? o método será observação direta, medição ou avaliação?), das tarefas a serem executadas, dos dados a serem coletados (quantidade de cliques, número de erros, tempo etc.), a ordem de execução das tarefas e das etapas da sessão de teste, recursos demandados, métricas coletadas etc.
+### Objetivos:                                                                                                                                                           
+-	Determinar inconsistências de design e áreas problemáticas de usabilidade dentro da interface do usuário e áreas de conteúdo. As fontes potenciais de erro podem incluir:
 
-Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos, mas não se esqueça: atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível, que permita identificar o voluntário, deverá ser apresentado).
+    - Erros de navegação – falha em localizar funções, pressionamentos de teclas excessivos para completar uma função, falha 
+        em seguir o fluxo de tela recomendado.
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+    - Erros de apresentação – falha em localizar e agir adequadamente sobre as informações desejadas nas telas, erros de seleção 
+        devido a rotulagem ambígua ou ineficiente.
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+    - Problemas de uso de controle – uso inadequado da barra de ferramentas ou do campo de entrada.
+
+-	Os dados serão usados para averiguar se as metas de usabilidade em relação a uma interface de usuário foram alcançadas de forma simples, eficaz, e se foi bem recebida.                                                                                                                                                               
+-	Estabelecer o desempenho do usuário de linha de base e os níveis de satisfação do usuário da interface do usuário para futuras avaliações de usabilidade.
+ 
+Os grupos escolhidos para testar a aplicação foram vendedores (profissionais que atuam ou atuaram na área) e profissionais e estudantes de tecnologia. O teste será aplicado remotamente utilizando o Maze.co como plataforma para esse fim pois oferece suporte para os métodos de avaliação dos artefatos-chave. 
+
+Foram criadas 2 (duas) tarefas a serem cumpridas pelos candidatos, ligadas ao requisito funcional crítico (RF 03 - O sistema deve permitir cadastrar, visualizar e remover os produtos da loja.) abaixo descrito: 
+
+### Coletor de dados
+
+Cada usuário recebeu o link do teste com direcionamentos para executar tarefas e os artefatos testados serão relatados em tabela conforme se segue: 
+
+As tarefas de cadastramento e exclusão de produtos no sistema serão dispostas em tabelas onde será registrada a coleta de dados referentes a seus artefatos:
+|Usuário|Artefato |Clicks (quantidade de cliques/ações realizadas pelo usuário sobre o artefato)| Tempo médio gasto na tarefa | Desistência (saída sem finalizar a tarefa | Comentário sobre o erro verificado|
+|----------------|----------------|----------|--------|------------|---------|
+
+Lista de artefatos a testar:
+#### Cadastrar produto no sistema
+
+- Tela Produtos - artefato de teste: Formulário para registrar produtos (Botão Cadastrar Produtos);
+- Tela Produtos - artefato de teste: Cadastro de produtos (Botão Salvar);
+
+#### Excluir produto no sistema
+- Tela Produtos - artefato de teste: Excluir produtos (Botão Remover);
+
+## Etapas para cumprimento das atividades
+
+ Cada usuário fará o teste a fim de recolher os dados para uso no registro de usabilidade. Seguindo as tarefas solicitadas que compõem a atividade como um todo:
+- O aplicativo deve ser utilizado nos navegadores: Chrome, Opera e Edge;
+- Usuário deve estar previamente cadastrado na plataforma Maze.co para ter acesso ao teste e permitir a coleta dos dados;
+- Haverá apenas coleta de dados, eximindo-se o testador de indicar ou participar do como o usuário usa a funcionalidade testada;
+- Melhorias ou ajustes no código do sistema poderão ser realizadas somente após a conclusão dos testes com todos os usuários.
+
+## Coleta dos dados e divulgação
+
+Os dados coletados após os testes serão divulgados em visuais para análise e geração de insights quanto a prováveis mudanças não só em código mas em lógica e dinâmica do aplicativo. O que se dará na fase de Registro dos Teste de Usabilidade
