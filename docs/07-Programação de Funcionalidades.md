@@ -7,8 +7,8 @@ Paara acessá-lo abra o navegador de Internet e informe a seguinte URL: https://
 ## Gestão de Vendedores (RF-02)
 A tela relacionada aos vendedores no sistema contém o rol de vendedores registrados. Nessa tela, estarão disponíveis as opções para cadastrar novo vendedor e editar ou remover os cadastros realizados. 
 
-C:\Users\MADOS\OneDrive - sga.pucminas.br\Área de Trabalho\Cadastro vendedores.png
-"C:\Users\MADOS\OneDrive - sga.pucminas.br\Área de Trabalho\Vendedores 1.png"
+![Cadastro vendedores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-2023-1-e2-proj-int-t1-CEV/assets/106809153/2cbfa142-2484-4099-8c04-00f4c714ae2b)
+![Vendedores 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-2023-1-e2-proj-int-t1-CEV/assets/106809153/7ca70e12-3efe-40e1-82ee-bf92d6c592aa)
 
 Artefatos desenvolvidos para atender ao requisito:
 
@@ -34,7 +34,7 @@ Artefatos desenvolvidos para atender ao requisito:
 ## Gestão de Vendas (RF-06 / RF-07)
 Na tela de Vendas constará uma lista de produtos com seus respectivos preços e a lista de funcionários registrados. O funcionário selecionará seu nome e o produto a ser vendido para conseguir finalizar a venda. 
 
-"C:\Users\MADOS\OneDrive - sga.pucminas.br\Área de Trabalho\Venda.png"
+![Venda](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-2023-1-e2-proj-int-t1-CEV/assets/106809153/d5d45ef0-f884-4c3a-8b71-8b189fc7bf9e)
 
 Artefatos desenvolvidos para atender ao requisito:
 
