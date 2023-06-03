@@ -49,7 +49,7 @@ Aplicação publicada está no link: https://puc-front.vercel.app/).
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src/codigo_fonte.md"> Código Fonte</a></li>
 
 # Apresentação
 
