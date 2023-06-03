@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cev.api", "cev.api\cev.api.csproj", "{E9E53CCF-09C3-4178-936C-8C9D8DCF0A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E53CCF-09C3-4178-936C-8C9D8DCF0A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E53CCF-09C3-4178-936C-8C9D8DCF0A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E53CCF-09C3-4178-936C-8C9D8DCF0A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E53CCF-09C3-4178-936C-8C9D8DCF0A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84E8406D-B453-4041-89B5-056B44A0D87B}
+	EndGlobalSection
+EndGlobal
