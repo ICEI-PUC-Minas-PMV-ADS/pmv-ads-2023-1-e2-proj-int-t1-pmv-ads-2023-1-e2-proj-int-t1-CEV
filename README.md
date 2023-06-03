@@ -26,6 +26,7 @@ A aplicação não tem o objetivo de assumir o contábil, mas apenas organizar e
 ## Instruções de utilização
 
 A aplicação pode ser rodada localhost, desde que o banco de dados a ser utilizado esteja configurado na aplicação.
+
 Aplicação publicada está no link: https://puc-front.vercel.app/).
 
 # Documentação
