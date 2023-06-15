@@ -79,7 +79,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID       | Descrição do Requisito  | Prioridade |
 |---------|-----------------------------------------|----|
 |RF-01| O sistema deve permitir  emitir relatórios. | ALTA | 
-|RF-02| O sistema deve permitir cadastrar, visualizar e remover vendedores. | ALTA |
+|RF-02| O sistema deve permitir cadastrar, visualizar e remover vendedores (usuários). | ALTA |
 |RF-03| O sistema deve permitir cadastrar, visualizar e remover os produtos da loja. | ALTA | 
 |RF-04| O sistema deve permitir cadastrar entrada no estoque da empresa.| MÉDIA |
 |RF-05| O sistema deve permitir emitir relatório de vendas da empresa. | MÉDIA | 
