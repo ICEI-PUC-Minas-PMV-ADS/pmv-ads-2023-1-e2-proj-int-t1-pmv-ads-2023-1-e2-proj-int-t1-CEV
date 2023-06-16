@@ -4,39 +4,39 @@
 
 | **Caso de Teste** 	| **CT-01 – Cadastrar venda** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-06 - O sistema deve permitir registrar as vendas realizadas. <br> RF-07 - O sistema deve permitir cadastrar, visualizar e remover vendas|
-| Objetivo do Teste 	| Verificar se consegue cadastrar um produto. |
-| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/                                                                                       <br> - Clicar no menu "Produtos"  <br> - Clicar em "Cadastrar Produto" <br> - Preencher os campos obrigatórios (nome do produto, preço, estoque inicial, salvar) |
-|Critério de Êxito | - Produto criado com sucesso. |
+|	Requisito Associado 	| RF-06 - O sistema deve permitir registrar as vendas realizadas. <br> RF-07 - O sistema deve permitir cadastrar, visualizar e remover vendas.|
+| Objetivo do Teste 	| Verificar se consegue cadastrar uma venda. |
+| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app                                                                                       <br> - Clicar no menu "Vendas"  <br> - Clicar em "Cadastrar venda" <br> - Preencher os campos obrigatórios (vendedor, produto), clicar em adicionar depois em finalizar venda. |
+|Critério de Êxito | - Venda cadastrada com sucesso. |
 |  	|  	| 
-| **Caso de Teste** 	| **CT-01 – Cadastrar produto** 	|
+| **Caso de Teste** 	| **CT-02 – Cadastrar produto** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-03 - O sistema deve permitir cadastrar, visualizar e remover os produtos da loja. |
 | Objetivo do Teste 	| Verificar se consegue cadastrar um produto. |
-| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/                                                                                       <br> - Clicar no menu "Produtos"  <br> - Clicar em "Cadastrar Produto" <br> - Preencher os campos obrigatórios (nome do produto, preço, estoque inicial, salvar) |
+| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app                                                                                       <br> - Clicar no menu "Produtos"  <br> - Clicar em "Cadastrar Produto" <br> - Preencher os campos obrigatórios (nome do produto, preço, estoque inicial, salvar) |
 |Critério de Êxito | - Produto criado com sucesso. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-02 – Editar produto** 	|
+| **Caso de Teste** 	| **CT-03 – Editar produto** 	|
 |	Requisito Associado 	| RF-03 - O sistema deve permitir cadastrar, visualizar e remover os produtos da loja. |
 | Objetivo do Teste 	| Verificar se consegue editar um produto. |
-| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/products<br> - Clicar em "Editar" <br> - Preencher os campos obrigatórios (nome do produto, preço, salvar) |
+| Passos 	| - Acessar o navegador <br>- https://puc-front.vercel.app <br> - Clicar no menu "Produtos" <br> - Clicar em "Editar" <br> - Preencher os campos obrigatórios (nome do produto, preço, salvar) |
 |Critério de Êxito | - Produto editado com sucesso. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-03 – Remover produto** 	|
+| **Caso de Teste** 	| **CT-04 – Remover produto** 	|
 |	Requisito Associado 	| RF-03 - O sistema deve permitir cadastrar, visualizar e remover os produtos da loja. |
 | Objetivo do Teste 	| Verificar se consegue remover um produto. |
-| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/products<br> - Clicar em "Remover" <br> |
+| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app <br> - Clicar no menu "Produtos" <br> - Clicar em "Remover" <br> |
 |Critério de Êxito | - Produto removido com sucesso. |
 |  	|  	|
 
-(usuarios) RF-02 O sistema deve permitir cadastrar, visualizar e remover vendedores (usuários).
+(usuarios) 5 6 e 7 RF-02 O sistema deve permitir cadastrar, editar e remover vendedores (usuários).
 
- relatórios RF-01 relatório de vendas O sistema deve permitir emitir relatórios.
+ relatórios 8 RF-01 relatório de vendas O sistema deve permitir emitir relatórios.
 RF-05 O sistema deve permitir emitir relatório de vendas da empresa.
 
-| **Caso de Teste** 	| **CT-04 – Cadastrar entrada de estoque** 	|
+| **Caso de Teste** 	| **CT-09 – Cadastrar entrada de estoque** 	|
 |	Requisito Associado 	| RF-04 - O sistema deve permitir cadastrar entrada no estoque da empresa. |
 | Objetivo do Teste 	| Verificar se consegue cadastrar a entrada de um produto. |
-| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app/products<br> - Clicar em "cadastrar entrada" <br> - Preencher os campos obrigatórios (produto - selecione, quantidade - adicionar, ações - remover, Cadastrar Entradas)|
+| Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app <br> - Clicar em "cadastrar entrada" <br> - Preencher os campos obrigatórios (produto - selecione, quantidade - adicionar, ações - remover, Cadastrar Entradas)|
 |Critério de Êxito | - Entradas de estoque feitas com sucesso. |
 
