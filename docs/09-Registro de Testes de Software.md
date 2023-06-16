@@ -19,4 +19,16 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-
 
 ## Avaliação
 
-Fizemos os referidos testes, os quais constam que obtivemos êxito no que foi proposto para cada funcionalidade.
+#### Atendimento da aplicação concernente aos requisitos e personas registrados
+
+Conforme demonstrado nos testes de software registrados, as necessidades indicadas pelas personas registradas nesse documento foram atendidas através das telas desenvolvidas seguindo a relação dos requisitos elicitados anteriormente.
+
+|`PERSONA`| `PRECISO (DORES)` |`FUNCIONALIDADE CRIADA` | REQUISITO ATENDIDO |
+|--------------------|------------------------------------|----------------------------------------|-------------|
+|Andrea Gomes|Controlar acesso de funcionários aos relatórios de estoque e vendas da empresa|Tela Usuários|RF-02 |
+|Andrea Gomes|Gerenciar produtos oferecidos pela loja (cadastrar, remover, incluir e visualizar dados)|Tela Produtos |RF-03 |
+|Vitor Pereira|Emitir relatórios de estoque|Tela Estoque|RF-01 / RF-04 |
+|Vitor Pereira|Emitir relatórios de vendas|Telas Relatório de Vendas|RF-01/ RF-05 |
+|Camila Torres |Registrar as mercadorias que chegam para o estoque|Tela Estoque|RF-03 |
+|Vendedor|Registrar venda dos produtos|Tela Produtos |RF-06 / RF07 |
+|Carlos Augusto|Gerenciar funcionários do estabelecimento|Tela Usuários |RF-02 |
