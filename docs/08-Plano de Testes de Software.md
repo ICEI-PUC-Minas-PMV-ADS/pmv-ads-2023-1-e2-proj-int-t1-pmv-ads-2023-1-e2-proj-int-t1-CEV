@@ -44,13 +44,13 @@
 |	Requisito Associado 	| RF-02 - O sistema deve permitir cadastrar, editar e remover vendedores (usuários). |
 | Objetivo do Teste 	| Verificar se consegue remover um vendedor (usuário). |
 | Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app <br> - Clicar no menu "vendedor" (usuário) <br> - Clicar em "Remover" <br> |
-|Critério de Êxito | - vendedor removido com sucesso. |
+|Critério de Êxito | - Vendedor removido com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-08 – Filtrar relatórios** 	|
 |	Requisito Associado 	| RF-01 - O sistema deve permitir emitir relatórios. <br> RF-05 - O sistema deve permitir emitir relatório de vendas da empresa. |
 | Objetivo do Teste 	| Verificar se consegue filtrar os relatórios de vendas. |
 | Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app <br> - Clicar no menu "Relatório de vendas" <br> - Preencher as datas iniciais e finais, em seguida clicar em "Filtrar". <br> |
-|Critério de Êxito | - o gráfico irá atualizar. |
+|Critério de Êxito | - O gráfico irá atualizar. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-09 – Cadastrar entrada de estoque** 	|
 |	Requisito Associado 	| RF-04 - O sistema deve permitir cadastrar entrada no estoque da empresa. |
