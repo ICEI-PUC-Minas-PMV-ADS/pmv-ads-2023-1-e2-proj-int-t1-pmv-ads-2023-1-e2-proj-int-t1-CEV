@@ -1,8 +1,6 @@
 
 # Metodologia
 
-Nesta seção serão abordados os métodos utilizados para o desenvolvimento do trabalho, bem como as ferramentas escolhidas para editar e controlar as versões de código, além da metodologia de gestão de times aplicada para organização das tarefas do projeto.
-
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -24,8 +22,6 @@ etiquetas:
 - `bug`: uma funcionalidade encontra-se com problemas
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
 ## Gerenciamento de Projeto
 
