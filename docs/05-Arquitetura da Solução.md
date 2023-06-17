@@ -17,17 +17,6 @@ O diagrama foi estruturado considerando a necessidade do cliente em otimizar seu
 ![image](https://user-images.githubusercontent.com/106809153/235804576-b82cf41a-7ff9-4429-8be7-da0881c15f1e.png)
 
 
-
-## Modelo ER (Projeto Conceitual)
-
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
-
-Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
-
-A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
-
 ## Projeto da Base de Dados
 
 O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
@@ -36,9 +25,22 @@ Para mais informações, consulte o microfundamento "Modelagem de Dados".
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+- **linguagens** 
+  - HTML (Hypertext Markup Language): responsável pela estrutura do conteúdo do site.
+  - CSS: usado para definir o estilo de apresentação da página desenvolvida.
+  - C#: linguagem de programação utilizada na aplicação
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+- **Serviços web e Ferramentas:**
+  - Trello:  utilizado para gerenciar e monitorar o fluxo de atividades do projeto.
+  - Azure: responsável por hospedar a aplicação (renderização de conteúdo).
+  - Vercel: plataforma usada para fazer o deploy do site.
+  - Visual Studio: editor escolhido para desenvolver o código-fonte do projeto.
+  - ASP.NET: framework que oferece suporte para criar aplicações e utilizar serviços (como APIs, por exemplo).
+  - JSON: formato utilizado na representação de dados.
+  - SQL Server: gerenciador de banco de dados relacional.
+
+Arquitetura da aplicação
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-2023-1-e2-proj-int-t1-CEV/assets/106809153/8e4cf7a0-fe80-48bb-b59e-a84f8d01a189)
 
 ## Hospedagem
 
