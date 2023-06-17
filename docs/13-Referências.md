@@ -1,7 +1,14 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
+https://azureforeducation.microsoft.com/pt-br/Institutions => acessado em 13/06/2023 
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+https://blog.betrybe.com/git/git-flow/#1  => acessado em 07/05/2023  
+
+https://docs.github.com/pt/get-started/quickstart/github-flow => acessado em 02/05/2023
+
+https://www.lucidchart.com/diagrams => acessado em 17/04/2023
+
+https://www.drawio.com => acessado em 23/03/2023
+
+https://www.totvs.com/blog/gestao-varejista/controle-de-estoque-e-vendas/ => acessado em 23/03/2023
+
