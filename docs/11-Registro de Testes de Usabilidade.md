@@ -41,6 +41,10 @@ Aplicação rodando nos navegadores Chrome e Edge, respectivamente:
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-2023-1-e2-proj-int-t1-CEV/assets/106809153/2d10cd43-6798-4e70-b1de-bfe5a589efab
 
+Aplicação rodando no navegador Mozilla Firefox:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-2023-1-e2-proj-int-t1-CEV/assets/106809153/0cc81f8a-25c7-4ac5-9c10-0a66c964d8a7)
+
 ## Comentários e Conclusão
 
 - Os testes foram feitos remotamente, conforme evidenciado no vídeo acima.
