@@ -2,7 +2,7 @@
 
 **01-Cadastrar venda**
 
-pendente
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t1-pmv-ads-2023-1-e2-proj-int-t1-CEV/assets/115049867/93447621-f8ae-43d2-916f-8217ba983870
 
 **02-Cadastrar produto**
 
