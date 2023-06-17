@@ -2,7 +2,7 @@
 
 O template criado é composto por layout que contém:
 
-●  Barra de menus: responsável pela navegação das telas na aplicaççao; <br>
+●  Barra de menus: responsável pela navegação das telas na aplicação; <br>
 ● Tela de visualização de conteúdo: local onde será exibido o conteúdo solicitado ao clicar na barra de menus.
 
 
